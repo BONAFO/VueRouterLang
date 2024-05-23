@@ -1,0 +1,1 @@
+const t="GAME 001",l="LOAD GAME",e="NEW GAME",a={load_modal:{title:"LOAD GAME",label:"Select a file with your savegame url or paste it in the input below.",file_inp:"Search File",txt_inp_ph:"Your Url Game",acp_btn:"Load",ccl_btn:"Cancel"}},n={title:t,loadbtn:l,nwbtn:e,modals:a};export{n as default,l as loadbtn,a as modals,e as nwbtn,t as title};
